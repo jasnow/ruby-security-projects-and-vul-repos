@@ -18,22 +18,19 @@
 ---
 ## Ruby Security Project Ideas (as of 2/11/2026)
 
- 1. Rewrite ruby-advisory-db/lib/github_advisory_sync.rb ruby script.
+ 1. Rewrite [ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db])/lib/github_advisory_sync.rb ruby script.
     This project is used by "bundle audit" command.
-    * URL: https://github.com/rubysec/ruby-advisory-db
 
- 2. Add more vulnerabilities to Railsgoat Training repo/project.
-    * URL: https://github.com/jasnow/railsgoat
+ 2. Add more vulnerabilities to [Railsgoat](https://github.com/jasnow/railsgoat) Training repo/project.
     * Compare Railsgoat vs. above 2 security books.
 
  3. Support [ruby_audit](https://github.com/civisanalytics/ruby_audit) project.
 
 ======================================================================
 
- 5. Modernize 2xxx "Black Hat Ruby" book's code.
-    * URL: https://github.com/blackhatruby/BHR_Labs
+ 5. Modernize 2xxx "Black Hat Ruby" book's [code](https://github.com/blackhatruby/BHR_Labs]).
 
- 6. Modernize 2009 "Security on Rails" book's code. Add URL.
+ 6. Modernize 2009 [Security on Rails](https://www.oreilly.com/pub/pr/2486) book's code. Add URL.
     * URL: ???
 
 ---
@@ -61,8 +58,7 @@
 
 #......................................................................
 ## BOOKS
- * 2021 [Bug Bounty Hunting for Web Security](
-   https://github.com/jasnow/bug-hunting-web-security) book
+ * 2021 [Bug Bounty Hunting for Web Security](https://github.com/jasnow/bug-hunting-web-security) book
  * 2020 [Black Hat Ruby](https://github.com/blackhatruby/BHR_Labs) book's code
  * 2009 [Security on Rails](TBD) book's code.
 
@@ -78,7 +74,7 @@
    "bundle audit")
 
 ## VULNERABLITY RESOURCES
- * vulnerablecode - Database of open source software package vulnerabilities
+ * [vulnerablecode](https://github.com/aboutcode-org/vulnerablecode) - Database of open source software package vulnerabilities
  * [vuln-list-update](https://github.com/aquasecurity/vuln-list-update)
    * Collects vulnerability information and saves it in parsable format automatically
 
