@@ -1,4 +1,4 @@
-https://github.com/jasnow/damn_vulnerable_rails_app
+
 
 # RUBY SECURITY PROJECTS and VULNERABLE REPOs
 
