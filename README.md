@@ -107,7 +107,7 @@ https://github.com/jasnow/damn_vulnerable_rails_app
        * "bundle audit" (none)
        * brakeman/Security Warnings: ZERO
 
- 2. [railsgoat](ttps://github.com/OWASP/railsgoat) (18)
+ 2. [railsgoat](https://github.com/OWASP/railsgoat) (18)
     * (rg25) RAILSGOAT_MAINTAINER="yes" rake
     * bundle audit (none)
     * brakeman/Security Warnings: 18
@@ -132,7 +132,7 @@ https://github.com/jasnow/damn_vulnerable_rails_app
       * Mass Assignment: 1
       * SQL Injection: 3
 
- 4. [rails_sql_injection]()https://github.com/jasnow/rails_sql_injection  (3)
+ 4. [rails_sql_injection](https://github.com/jasnow/rails_sql_injection) (3)
     * "rake" (No GH vulnerabilities)
     * "bundle audit" (none)
     * brakeman/Security Warnings: 3
