@@ -26,7 +26,7 @@
 
  3. Support [ruby_audit](https://github.com/civisanalytics/ruby_audit) project.
 
-======================================================================
+---
 
  5. Modernize 2xxx "Black Hat Ruby" book's [code](https://github.com/blackhatruby/BHR_Labs]).
 
@@ -56,7 +56,8 @@
     * 2014
       * http://sciruby.com/blog/2014/02/24/gsoc-2014/
 
-#......................................................................
+---
+
 ## BOOKS
  * 2021 [Bug Bounty Hunting for Web Security](https://github.com/jasnow/bug-hunting-web-security) book
  * 2020 [Black Hat Ruby](https://github.com/blackhatruby/BHR_Labs) book's code
@@ -74,9 +75,8 @@
    "bundle audit")
 
 ## VULNERABLITY RESOURCES
- * [vulnerablecode](https://github.com/aboutcode-org/vulnerablecode) - Database of open source software package vulnerabilities
- * [vuln-list-update](https://github.com/aquasecurity/vuln-list-update)
-   * Collects vulnerability information and saves it in parsable format automatically
+ * [vulnerablecode](https://github.com/aboutcode-org/vulnerablecode) - Database of open source software package vulnerabilities.
+ * [vuln-list-update](https://github.com/aquasecurity/vuln-list-update) - Collects vulnerability information and saves it in parsable format automatically.
 
 ## REPOS WITH VULNERABILITIES (See more at bottom of this file)
  1. rails_new 
