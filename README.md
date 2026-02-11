@@ -1,3 +1,5 @@
+https://github.com/jasnow/damn_vulnerable_rails_app
+
 # RUBY SECURITY PROJECTS and VULNERABLE REPOs
 
 ---
@@ -99,13 +101,13 @@
 
 ---
 ## Definition Applied on 12/28/2025:
- 1. rails_new (41)
+ 1. [rails_new](https://github.com/jasnow/rails_new) (41)
     * "rake" (GitHub found 41 vulnerabilities on jasnow/rails_new's
        default branch (6 critical, 11 high, 13 moderate, 11 low).
        * "bundle audit" (none)
        * brakeman/Security Warnings: ZERO
 
- 2. Public "railsgoat" - https://github.com/OWASP/railsgoat (18)
+ 2. [railsgoat](ttps://github.com/OWASP/railsgoat) (18)
     * (rg25) RAILSGOAT_MAINTAINER="yes" rake
     * bundle audit (none)
     * brakeman/Security Warnings: 18
@@ -121,7 +123,7 @@
       * SQL Injection: 2
       * Session Setting: 2
 
- 3. DVGM (7)
+ 3. [DVGM](https://github.com/jasnow/dvgm) (7)
     * "rake" (No GH vulnerabilities)
     * "bundle audit" (none)
     * brakeman/Security Warnings: 7
@@ -130,34 +132,33 @@
       * Mass Assignment: 1
       * SQL Injection: 3
 
- 4. rails_sql_injection  (3)
+ 4. [rails_sql_injection]()https://github.com/jasnow/rails_sql_injection  (3)
     * "rake" (No GH vulnerabilities)
     * "bundle audit" (none)
     * brakeman/Security Warnings: 3
       * SQL Injection: 2
       * Session Setting: 1
 
- 5. vulnerableApp (2)
+ 5. [vulnerableApp](https://github.com/jasnow/vulnerableApp) (2)
     * "rake" (No GH vulnerabilities)
     * "bundle audit" (none)
     * brakeman/Security Warnings: 2
       * Dynamic Render Path: 2
 
- 6. damn_vulnerable_rails_app (1)
+ 6. [damn_vulnerable_rails_app](https://github.com/jasnow/damn_vulnerable_rails_app) (1)
     * "rake" (No GH vulnerabilities)
     * "bundle audit" (none)
     * brakeman/Security Warnings: 1
       * SQL Injection: 1
 
- 7. spxxrt_2_3 (1)
+ 7. [spxxrt_2_3](https://github.com/jasnow/spxxrt_2_3) (1)
     * "rake" (1)
       * https://github.com/jasnow/spxxrt_2_3/security/dependabot/33 (Trix)	   
     * "bundle audit" (none)
     * brakeman/Security Warnings (none)
 
- 8. oct11 (1)
+ 8. [oct11](https://github.com/jasnow/oct10) (1)
     * "rake" (1)
        * https://github.com/jasnow/oct10/security/dependabot/29
     * "bundle audit" (none)
     * brakeman/Security Warnings (none)
-EOF
