@@ -1,5 +1,3 @@
-
-
 # RUBY SECURITY PROJECTS and VULNERABLE REPOs
 
 ---
@@ -42,7 +40,10 @@
     * sciruby: 2016-2019
 
     * 2026
-      * https://github.com/rubygsoc/rubygsoc/wiki/Ideas-List-(2026)
+      * Ruby: https://github.com/rubygsoc/rubygsoc/wiki/Ideas-List-(2026)
+      * OWASP: https://owasp.org/www-community/initiatives/gsoc/gsoc2026ideas
+        * BLT: Bug Logging Tool: https://owasp.org/www-project-bug-logging-tool
+        * PYGOAT: https://owasp.org/www-project-pygoat
     * 2020
       * https://groups.google.com/g/sciruby-dev/c/AA4n4URIAE0
     * 2017
@@ -162,3 +163,6 @@
        * https://github.com/jasnow/oct10/security/dependabot/29
     * "bundle audit" (none)
     * brakeman/Security Warnings (none)
+
+======================================================================
+
